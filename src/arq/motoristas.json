@@ -1,0 +1,44 @@
+{
+  "nomes": [
+    {
+      "nome": "Pedro Henrique",
+      "cpf": "333333",
+      "data_nascimento": "05/06/1975",
+      "cidade": "São Carlos",
+      "modelo_carro": "Chevrolet Corsa",
+      "placa": "xxxx",
+      "email": "pedro@gmail",
+      "habilitacao": "xxxxxxxxx"
+    },
+    {
+      "nome": "João Gomes",
+      "cpf": "xxxxxxxxxxxx",
+      "data_nascimento": "05/06/1980",
+      "cidade": "Batatais",
+      "modelo_carro": "Fiat Toro",
+      "placa": "xxxx",
+      "email": "joao@gmail",
+      "habilitacao": "xxxxxxxxx"
+    },
+    {
+      "nome": "Ricardo Pereira",
+      "cpf": "xxxxxxxxxxxx",
+      "data_nascimento": "05/06/1970",
+      "cidade": "São Carlos",
+      "modelo_carro": "Gol",
+      "placa": "xxxx",
+      "email": "ricardo@gmail",
+      "habilitacao": "xxxxxxxxx"
+    },
+    {
+      "nome": "Jonas Algusto",
+      "cpf": "xxxxxxxxxxxx",
+      "data_nascimento": "05/06/1980",
+      "cidade": "Batatais",
+      "modelo_carro": "Fiat Uno",
+      "placa": "xxxx",
+      "email": "jonas@gmail",
+      "habilitacao": "xxxxxxxxx"
+    }
+  ]
+}
